@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jack Yang</title>
-    <link>untitled36288.github.io/</link>
+    <link>//localhost:12988/</link>
     <description>Recent content on Jack Yang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Jul 2024 21:49:50 +0800</lastBuildDate>
-    <atom:link href="untitled36288.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:12988/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>untitled36288.github.io/post/test/</link>
+      <link>//localhost:12988/post/test/</link>
       <pubDate>Fri, 19 Jul 2024 21:49:50 +0800</pubDate>
-      <guid>untitled36288.github.io/post/test/</guid>
+      <guid>//localhost:12988/post/test/</guid>
       <description>test123</description>
     </item>
     <item>
       <title></title>
-      <link>untitled36288.github.io/contact/</link>
+      <link>//localhost:12988/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>untitled36288.github.io/contact/</guid>
+      <guid>//localhost:12988/contact/</guid>
       <description>Jack Yang&#xA;Email: untitled36288@gmail.com&#xA;Call: +86 18221783574</description>
     </item>
     <item>
       <title></title>
-      <link>untitled36288.github.io/projects/</link>
+      <link>//localhost:12988/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>untitled36288.github.io/projects/</guid>
+      <guid>//localhost:12988/projects/</guid>
       <description>Me_Eat Jack</description>
     </item>
     <item>
       <title></title>
-      <link>untitled36288.github.io/publications/</link>
+      <link>//localhost:12988/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>untitled36288.github.io/publications/</guid>
+      <guid>//localhost:12988/publications/</guid>
       <description>《Me_Eat Jack: Bio-Art and the Ethics of Meat Consumption》 ISEA 2024</description>
     </item>
   </channel>
