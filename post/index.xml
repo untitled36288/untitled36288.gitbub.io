@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jack Yang</title>
+    <link>untitled36288.github.io/post/</link>
+    <description>Recent content in Posts on Jack Yang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jul 2024 21:49:50 +0800</lastBuildDate>
+    <atom:link href="untitled36288.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>untitled36288.github.io/post/test/</link>
+      <pubDate>Fri, 19 Jul 2024 21:49:50 +0800</pubDate>
+      <guid>untitled36288.github.io/post/test/</guid>
+      <description>test123</description>
+    </item>
+  </channel>
+</rss>
